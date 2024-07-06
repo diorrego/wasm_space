@@ -1,5 +1,10 @@
 # Compiled files
 /target/
 
+# Parcel cache and node modules
+/wasm_space_parcel/.parcel-cache
+/wasm_space_parcel/node_modules
+/wasm_space_parcel/dist
+
 
 
